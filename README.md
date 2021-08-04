@@ -27,20 +27,20 @@ Jack Morgan's Dotfiles
 * **Low resources** used
 * **Fonts**: [JetBrains](https://www.jetbrains.com/lp/mono/) and [Fontawesome](https://fontawesome.com/).
 * **Colors and palette**: [Nord Theme](https://www.nordtheme.com/docs/colors-and-palettes)
-* Designed for [Arch Linux](https://archlinux.org/)
+* Designed for [Artix Linux](https://artixlinux.org/)
 
 ## Programs
 
-- **WM**                            : [i3-gaps](https://i3wm.org/)
+- **WM**                            : [bspwm](https://github.com/baskerville/bspwm)
 - **DM***                           : [Lightdm](https://wiki.archlinux.org/title/LightDM)
 - **Shell**                         : [bash](https://wiki.archlinux.org/index.php/zsh)
 - **Terminal**                      : [Alacritty](https://github.com/alacritty/alacritty)
 - **Bar**                           : [Polybar](https://github.com/polybar/polybar)
 - **Compositor**                    : [Picom Jonaburg](https://aur.archlinux.org/packages/picom-jonaburg-git/)
 - **Text Editor**                   : [IceVim](https://github.com/jackm245/IceVim)
-- **Wallpaper Manager**             : [nitrogen](https://wiki.archlinux.org/index.php/Nitrogen)
+- **Wallpaper Manager**             : [feh](https://feh.finalrewind.org/)
 - **Notify Daemon**                 : [dunst](https://wiki.archlinux.org/index.php/Dunst)
-- **File Manager**                  : [ranger](https://github.com/ranger/ranger) & [nautilus](https://wiki.archlinux.org/title/GNOME/Files)
+- **File Manager**                  : [lf](https://github.com/gokcehan/lf) & [nautilus](https://wiki.archlinux.org/title/GNOME/Files)
 - **Application Launcher**          : [rofi](https://github.com/davatorium/rofi)
 - **Video Player**                  : [VLC](https://www.videolan.org/)
 - **GTK Theme**                            : [Nordic](https://github.com/EliverLara/Nordic)
@@ -48,7 +48,6 @@ Jack Morgan's Dotfiles
 - **Terminal Clock**                            : [tty-clock](https://github.com/xorg62/tty-clock)
 - **System Monitor**                            : [gotop](https://github.com/cjbassi/gotop)
 - **Browser**                            : [brave](https://brave.com/)
-- **Spicetify**                     : [nord-theme](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Nord)
 
 ## How these dotfiles are maintained
 
