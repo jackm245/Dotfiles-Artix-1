@@ -32,7 +32,8 @@ Jack Morgan's Dotfiles
 ## Programs
 
 - **WM**                            : [bspwm](https://github.com/baskerville/bspwm)
-- **DM***                           : [Lightdm](https://wiki.archlinux.org/title/LightDM)
+- **Init System**                   :[runit](http://smarden.org/socklog/)
+- **DM**                           : [Lightdm](https://wiki.archlinux.org/title/LightDM)
 - **Shell**                         : [bash](https://wiki.archlinux.org/index.php/zsh)
 - **Terminal**                      : [Alacritty](https://github.com/alacritty/alacritty)
 - **Bar**                           : [Polybar](https://github.com/polybar/polybar)
