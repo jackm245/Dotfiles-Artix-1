@@ -11,13 +11,6 @@ Jack Morgan's Dotfiles
 - [Dotfiles Maintenance](#How-these-dotfiles-are-maintained)
 - [Contributing](#Contributing)
 
-## Config
-
-![Image 1](images/1.png)
-
-![Image 2](images/2.png)
-
-![Image 3](images/3.png)
 
 ## Description
 
